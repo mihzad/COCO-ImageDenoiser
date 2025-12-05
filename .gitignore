@@ -5,7 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
-
+#pycharm
+.idea
+#dataset
+data
+checkpoints
+cocomy.zip
 # Distribution / packaging
 .Python
 build/
